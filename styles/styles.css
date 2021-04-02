@@ -109,3 +109,6 @@ body {
 .view.selected {
   display: block;
 }
+.content{
+      background-color: yellow;
+}
